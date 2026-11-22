@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+ultralytics
+opencv-python
+numpy
+pandas
+Pillow
+folium
+streamlit-folium
+requests
