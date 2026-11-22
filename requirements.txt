@@ -9,3 +9,5 @@ Pillow
 folium
 streamlit-folium
 requests
+imageio-ffmpeg
+geopy
