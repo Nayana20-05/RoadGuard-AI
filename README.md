@@ -198,6 +198,25 @@ RoadGuard-AI/
 └── README.md
 
 ```
+## 📦 Model and Dataset Setup
+
+RoadGuard AI requires pretrained model files and supporting dataset files to run.
+
+### Required Files
+
+- `yolo11n.pt` – YOLO object detection model.
+- `roadguard_accident_model.pth` – Trained MobileNetV2 accident classification model.
+- `Dataset/hospital.csv` – Hospital information used by the application.
+
+### Setup Instructions
+
+1. Download or obtain the required model files.
+2. Place `yolo11n.pt` and `roadguard_accident_model.pth` in the project root directory.
+3. Create a `Dataset` folder.
+4. Place `hospital.csv` inside the `Dataset` folder.
+5. Configure the environment variable `ROADGUARD_APP_PASSWORD` for email notifications.
+
+**Note:** Model weights and dataset files are not included in this GitHub repository.
 
 
 
