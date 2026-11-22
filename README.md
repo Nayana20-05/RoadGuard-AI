@@ -62,6 +62,29 @@ It uses computer vision and deep learning to analyse video frames, detect potent
 
 | Overpass API | Nearby hospital search |
 
+## 📸 Project Screenshots
+
+### Dashboard
+
+![Dashboard](assets/screenshots/dashboard.jpeg)
+
+![Dashboard 1](assets/screenshots/dashboard1.jpeg)
+
+![Dashboard 2](assets/screenshots/dashboard2.jpeg)
+
+![Dashboard 3](assets/screenshots/dashboard3.jpeg)
+
+![Dashboard 4](assets/screenshots/dashboard4.jpeg)
+
+### Email Notifications
+
+![Email Dashboard](assets/screenshots/maildashboard.jpeg)
+
+![Email Dashboard 1](assets/screenshots/maildashboard1.jpeg)
+
+### Video Detection
+
+![Video Detection](assets/screenshots/Video.jpeg)
 
 
 \## 🏗️ System Workflow
